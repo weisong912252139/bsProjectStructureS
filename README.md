@@ -1,0 +1,2 @@
+# bsProjectStructureS
+bsProjectStructureS
